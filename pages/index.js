@@ -23,7 +23,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I’m Kenechukwu. I’m a software engineer and a translator (English/Spanish). You can contact me on  
+        <p>Hello, I’m Kenechukwu. I’m a software engineer based in Enugu, Nigeria. You can contact me on  
           {'  '}
           <Link href='/'> 
             <a>Twitter..</a>
